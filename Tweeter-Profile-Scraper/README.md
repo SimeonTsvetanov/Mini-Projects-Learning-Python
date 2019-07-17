@@ -21,7 +21,7 @@ Next -> download or copy the code from: [Tweeter_Account_review.py](https://gith
 and run it in your system.
 If you are more intrested in how the code works. I have created comments for everything in the code.
 
-### The program has a basic menu with 4 Main Elements: ###
+### The program has very basic menu with 4 Main Elements: ###
 - ***Interactive Label***: It will help the user with information text. Which changes, depending on the state of the program.
 - ***Input text field***: To get the input of the user.
 - ***Search button***: Well, you know what is that. (Added extra function to use the RETURN key on the keyboard, to do the same thing)
