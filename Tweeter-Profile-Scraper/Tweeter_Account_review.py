@@ -1,10 +1,10 @@
 from tkinter import *
 import pickle
 import tweepy
-auth = tweepy.OAuthHandler('Change me with: API key',
-                           'Change me with: API secret key')
-auth.set_access_token('Change me with: Access token',
-                      'Change me with: Access token secret')
+auth = tweepy.OAuthHandler('Change me with: API key',  # <<<<<<<<<<<<<<<------- Replace with the Api key
+                           'Change me with: API secret key')  # <<<<<<<<--------Replace with the Api secret key
+auth.set_access_token('Change me with: Access token',  # <<<<<<<<<<<<<<<--------Replace with the Access token
+                      'Change me with: Access token secret')  # <<<<<<<<--------Replace with the Access token secret
 api = tweepy.API(auth)  # To authenticate the program
 
 """
