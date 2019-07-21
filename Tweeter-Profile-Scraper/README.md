@@ -1,7 +1,7 @@
 # Welcome to the Tweeter-Profile-Reviewer
 
 ***
-This project was created as part of a assignment from [Softuni](https://softuni.bg/), during the Python Fundamentals Course.
+This project was created as part of a assignment from [Softuni](https://softuni.bg/) (kind of), during the Python Fundamentals Course.
 
 
 ### The aim of the Project was to create a Twitter Profile Reviewer GUI App with Python. That runs in its own GUI.
