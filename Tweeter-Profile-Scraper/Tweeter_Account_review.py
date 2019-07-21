@@ -53,6 +53,7 @@ def get_save_print_user_info():  # As the name this is the main code of the prog
             user = api.get_user(handle)
             family.append(f"-------------------------Tweeter user Description:-----------------------" + "\n")
             family.append(f"Name: {user.name}, or @{user.screen_name}" + "\n")
+            family.append(f"Profile Picture: {user.profile_image_url}" + "\n")
             if not user.location:
                 family.append(f"Location: Not Provided" + "\n")
             else:
