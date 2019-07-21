@@ -28,5 +28,6 @@ If you are more intrested in how the code works. I have created comments for eve
 - ***Text Field***: To input all the information that we have found for the user in Tweeter :) 
 
 The program is using pickle for storing only THE LAST input @handle (user), It is not needed at this moment, but If you decide to, keep more information in the future. Just add extra functions and do it. On run the app will create the “family.pickle” file In your system directory if one is needed. 
-I'll upload a image(sample) of the program GUI, so you can get a better idea.
-![picture of the program](https://github.com/SimeonTsvetanov/Mini-Projects-Learning-Python/blob/master/Tweeter-Profile-Scraper/Screenshot-of-the-app.jpg)
+I'll upload a image(samples) of the program GUI, so you can get a better idea.
+![first-picture](https://github.com/SimeonTsvetanov/Mini-Projects-Learning-Python/blob/master/Tweeter-Profile-Scraper/TPS01.jpg)
+![second-picture](https://github.com/SimeonTsvetanov/Mini-Projects-Learning-Python/blob/master/Tweeter-Profile-Scraper/TPS02.jpg)
