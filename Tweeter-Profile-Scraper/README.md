@@ -4,7 +4,7 @@
 This project was created as part of a assignment from [Softuni](https://softuni.bg/), during the Python Fundamentals Course.
 
 
-### The aim of the Project was to create a Twitter Profile Reviewer GUI App with Python. That runs in its own GUI.
+### The aim of the Project was to create a Twitter Profile Reviewer App with Python. That runs in its own GUI.
 On run the program will present you, with a interactive help lbl(on the top of the screen),asking you to add the Tweeter account name @handle and to press search.
 Once done,It will present you with basic information of the searched user and their last several tweets.
 
