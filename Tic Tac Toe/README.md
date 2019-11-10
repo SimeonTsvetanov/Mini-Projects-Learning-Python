@@ -4,7 +4,7 @@
 
 #### If you don't have Pthon installed on your Computer just download the [exe](https://github.com/SimeonTsvetanov/Mini-Projects-Learning-Python/blob/master/Tic%20Tac%20Toe/tic_tac_toe_v1.exe) file (add exeption if Defender is sad about it). And just Run it.
 
-#### Or if you are fancy and you want to run it in you own environment (or just to check the code): COPY and paste the code [from here](https://github.com/SimeonTsvetanov/Mini-Projects-Learning-Python/blob/master/Tic%20Tac%20Toe/tic_tac_toe_v1.py) in your favorite Python IDE and fire up the Console. 
+#### Or if you are fancy and you want to run it in you own environment (or just to check the code): COPY and paste it [from here](https://github.com/SimeonTsvetanov/Mini-Projects-Learning-Python/blob/master/Tic%20Tac%20Toe/tic_tac_toe_v1.py) in your favorite Python IDE and fire up the Console. 
 
 Everithing will be explained in game.
 
