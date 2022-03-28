@@ -4,7 +4,7 @@ Youtube Songs Downloader will is extremely simple program for downloading songs 
 
 ## Installation
 
-NO INSTALLATION required Just Download the Download Youtube Songs.exe Application on your PC. 
+NO INSTALLATION required Just Download the Download YouTube Songs Downloader.exe Application on your PC. 
 
 ```bash
 The song will be saved in the same folder with the application.
