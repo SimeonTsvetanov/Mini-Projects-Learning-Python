@@ -1,23 +1,27 @@
-# Youtube Songs Downloader
+# Youtube Downloader
 
-Youtube Songs Downloader will is extremely simple program for downloading songs from YouTube.
+Youtube Downloader is extremely simple program for downloading songs or playlists (in audio or video) from YouTube.
 
 ## Installation
-
-NO INSTALLATION required Just Download the Download YouTube Songs Downloader.exe Application on your PC. 
+NO INSTALLATION required Just Download the YouTube Downloader.exe Application on your PC. 
+Just Bypass the Windows Security (It seems to have problem with programs ported with pyinstaller.)
 
 ```bash
-The song will be saved in the same folder with the application.
+If you select just one song, it will be saved in the same folder with the application.
+If you select a playlist, it will be downloaded in a sub folder named after the playlist.
 ```
 
 ## Usage
 
 ```python
 Download the app
+Bypass the Windows Security as it's ported with pyinstaller (no way around it)
+# A script window will appear prompting you to fill in the (s or p) for just A SONG or PLAYLIST and (a or v) for AUDIO or VIDEO.
+# And it will require the link from YouTube. 
 
-# A script window will appear prompting you to fill in the link for the song
 Enter the Song and hit ENTER
 
-# As long as the link is correct:
-It should download the song in the same folder. 
+# As long as the input data is correct:
+
+The program will download the selected Song/Playlist. 
 ```
