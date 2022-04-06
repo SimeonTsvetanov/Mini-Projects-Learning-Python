@@ -1,4 +1,5 @@
 # Youtube Downloader
+![program screenshot](https://github.com/SimeonTsvetanov/Mini-Projects-Learning-Python/blob/master/YouTube%20Downloader/Screenshot.png)
 
 Youtube Downloader is extremely simple program for downloading songs or playlists (in audio or video) from YouTube.
 
@@ -14,7 +15,7 @@ If you select a playlist, it will be downloaded in a sub folder named after the 
 ```python
 Download the app
 Bypass the Windows Security as it's ported with pyinstaller (no way around it)
-# Select what you need fill the link and HIT Download!
+# Select what you need, fill the link and HIT Download!
 # As long as the link is correct:
 The program will download the selected Song/Playlist. 
 ```
