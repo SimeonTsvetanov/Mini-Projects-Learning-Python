@@ -17,5 +17,7 @@ Download the app
 Bypass the Windows Security as it's ported with pyinstaller (no way around it)
 # Select what you need, fill the link and HIT Download!
 # As long as the link is correct:
-The program will download the selected Song/Playlist. 
+The program will download the selected Song/Playlist.
+
+Short link for the REPO: https://bit.ly/3v2w4HV
 ```
